@@ -2,8 +2,8 @@
 #pragma once
 // used because in GUI you cannot set a text of the cell to be Character.
 // So instead we use string.
-#define symX "X"        // defines symX to be "X" which will be used in GUI [ MACROS ]
-#define symO "O"        // defines symO to be "O" which will be used in GUI [ MACROS ]
+#define symX "X"        // defines symX to be "X" which will be used in GUI
+#define symO "O"        // defines symO to be "O" which will be used in GUI
 
 
 /*

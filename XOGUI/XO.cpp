@@ -1,7 +1,10 @@
+/***************************************************************************/
+/*	Project : TicTacToe     											   */
+/*	Details : XO game playable versus computer on 2-mode (easy-nightmare)  */
+/*            and versus another player                                    */
+/***************************************************************************/
 
-#define inf 1000                    // defines a very high value to be infinity (inf) [ MACROS ]
 #include "XO_H.h"
-// #include <ctime>
 #include <stdlib.h>
 
 
