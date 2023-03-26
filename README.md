@@ -1,4 +1,4 @@
-# **TicTacToe-CPP**
+# **TicTacToe-minimax**
 #### TicTacToe (XO) game developed using C++ ... containing a nightmare game-mode which is an implementation of <ins>MiniMax Algorithm</ins> which is a challenging mode _(can you beat the computer?)_. Additionally, there is an easy-mode and finally player versus player mode _(2 players mode)_.
 
 ---
